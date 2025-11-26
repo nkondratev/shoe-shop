@@ -1,0 +1,8 @@
+APP_TITLE = "ООО «Обувь»"
+
+FONT = ("Times New Roman", 14)
+COLOR_MAIN_BG = "#FFFFFF"
+COLOR_SECOND_GB = "#7FFF00"
+COLOR_FOCUS = "#00FA9A"
+COLOR_DISCOUNT_BG = "#2E8B57"
+
